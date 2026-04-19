@@ -9,6 +9,9 @@
   <a href="https://twitter.com/BilelEljaamii" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://www.datacamp.com/portfolio/bileleljaamii-905ba386-1973-4d27-bd2b-19cb7f653af7" target="_blank">
+    <img src="https://img.shields.io/badge/DataCamp-03E86D?style=for-the-badge&logo=datacamp&logoColor=black" alt="DataCamp" />
+  </a>
 </div>
 
 ---
